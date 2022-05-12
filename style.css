@@ -68,3 +68,80 @@ h2{
     background-size: cover;
 }
 /* biography start ends */
+
+/* work part start  */
+.my-work{
+    background-image: url(image/latest-work-bg.png);
+    background-size: cover;
+}
+.work{
+    text-align: center;
+    font-size: 20px;
+    height: 400px;
+}
+.first-img{
+    display: inline;
+    position: relative;
+    padding-right: 10px;
+}
+.sec-img{
+    display: inline;
+    position: relative;
+    padding-right: 10px;
+}
+.third-img{
+    display: inline;
+    position: relative;
+    
+}
+.work h3{
+    padding-bottom: 40px;
+}
+.work img{
+    width: 30%;
+}
+
+/* work part ends  */
+
+/* last part  */
+.last{
+    padding-top: 0;
+    text-align: center;
+    height: 500px;
+}
+.last h2{
+    font-size: 30px;
+    line-height: 100px;
+}
+.last h4{
+    
+    line-height: 1px;
+}
+#para1{
+    font-size: 12px;
+    line-height: 10px;
+}
+#para2{
+    margin-left: 330px;
+    text-align: center;
+    width: 40%;
+    padding-bottom: 100px;
+}
+.last a{
+    color: white;
+    
+    text-decoration: none;
+    background-color: #f75b84;
+    border-radius: 7px;
+    padding: 65px 120px;
+}
+footer{
+    font-size: 14px;
+    text-align: center;
+    padding-bottom: 40px;
+}
+.last-part{
+    background-image: url(image/footer-bg.png);
+    background-size: cover;
+}
+/* last part ends */
